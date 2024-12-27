@@ -1,0 +1,6 @@
+# API_KEY = xai-1f8kqj0BkzM1lEAXwmCtERosUjydF0HDNPae5wUTp0ez0TtA31LPEnfdulVmPMgPtJcUxJIMaRI6Nmjd
+openai
+# langchain_xai
+# chainlit
+#grok
+streamlit
